@@ -1,0 +1,13 @@
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\bin\Debug\FileManager.exe
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\bin\Debug\FileManager.pdb
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\bin\Debug\aa\FileManager.resources.dll
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\obj\Debug\FileManager.Form1.resources
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\obj\Debug\FileManager.Form1.aa.resources
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\obj\Debug\aa\FileManager.resources.dll
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\obj\Debug\FileManager.exe
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\obj\Debug\FileManager.pdb
+C:\Users\hcolin\Documents\FileManagerBP\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
